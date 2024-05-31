@@ -6,7 +6,8 @@
 **Disclaimer. This repo contains examples of harmful language. Reader discretion is recommended.**
 
 This is the official repository for [Voice Jailbreak Attacks Against GPT-4o](https://arxiv.org/abs/2405.19103). In this paper, we present the first study on how to jailbreak GPT-4o with voice.
-Check our demo in action!
+
+Check out our demo below!
 
 https://github.com/TrustAIRLab/VoiceJailbreakAttack/assets/16172194/a1d717b0-dc4e-42d6-90ac-ee410e4f512e
 
